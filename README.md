@@ -1,2 +1,5 @@
 # ku
-ku
+username:
+kurdish
+password:
+cracker
